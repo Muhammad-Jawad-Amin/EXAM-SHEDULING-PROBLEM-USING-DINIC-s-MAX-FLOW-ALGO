@@ -1,0 +1,5 @@
+No of classes are 7.
+No of rooms are 6.
+No of time slots are 5.
+No of proctors are 4.
+No of exams that a proctor can oversee 3.

@@ -1,0 +1,29 @@
+The maximum no of exams which can be conducted are 6
+----------------------------------------------------------
+Edge : Class 1 -> Room 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Class 2 -> Room 3 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Class 3 -> Room 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Class 4 -> Room 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Class 6 -> Room 3 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Class 7 -> Room 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Room 1 -> TimeSlot 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Room 1 -> TimeSlot 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Room 2 -> TimeSlot 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Room 2 -> TimeSlot 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Room 3 -> TimeSlot 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Room 3 -> TimeSlot 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : TimeSlot 1 -> Proctor 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : TimeSlot 1 -> Proctor 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : TimeSlot 1 -> Proctor 3 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : TimeSlot 2 -> Proctor 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : TimeSlot 2 -> Proctor 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : TimeSlot 2 -> Proctor 3 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Proctor 1 -> Sink | Flow = 2 | Capacity = 3 | is Residual: False
+Edge : Proctor 2 -> Sink | Flow = 2 | Capacity = 3 | is Residual: False
+Edge : Proctor 3 -> Sink | Flow = 2 | Capacity = 3 | is Residual: False
+Edge : Source -> Class 1 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Source -> Class 2 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Source -> Class 3 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Source -> Class 4 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Source -> Class 6 | Flow = 1 | Capacity = 1 | is Residual: False
+Edge : Source -> Class 7 | Flow = 1 | Capacity = 1 | is Residual: False

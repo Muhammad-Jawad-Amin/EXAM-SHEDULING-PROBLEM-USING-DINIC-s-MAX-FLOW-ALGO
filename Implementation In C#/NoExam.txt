@@ -1,0 +1,17 @@
+Classes which can not give exams in these rooms are : 
+Class 1 can not give exam in Room 1 because Class 1 students 47 > Room 1 seating capacity 40.
+Class 2 can not give exam in Room 1 because Class 2 students 67 > Room 1 seating capacity 40.
+Class 2 can not give exam in Room 2 because Class 2 students 67 > Room 2 seating capacity 50.
+Class 2 can not give exam in Room 5 because Class 2 students 67 > Room 5 seating capacity 60.
+Class 2 can not give exam in Room 6 because Class 2 students 67 > Room 6 seating capacity 59.
+Class 3 can not give exam in Room 1 because Class 3 students 50 > Room 1 seating capacity 40.
+Class 5 can not give exam in Room 1 because Class 5 students 90 > Room 1 seating capacity 40.
+Class 5 can not give exam in Room 2 because Class 5 students 90 > Room 2 seating capacity 50.
+Class 5 can not give exam in Room 3 because Class 5 students 90 > Room 3 seating capacity 70.
+Class 5 can not give exam in Room 4 because Class 5 students 90 > Room 4 seating capacity 80.
+Class 5 can not give exam in Room 5 because Class 5 students 90 > Room 5 seating capacity 60.
+Class 5 can not give exam in Room 6 because Class 5 students 90 > Room 6 seating capacity 59.
+Class 6 can not give exam in Room 1 because Class 6 students 65 > Room 1 seating capacity 40.
+Class 6 can not give exam in Room 2 because Class 6 students 65 > Room 2 seating capacity 50.
+Class 6 can not give exam in Room 5 because Class 6 students 65 > Room 5 seating capacity 60.
+Class 6 can not give exam in Room 6 because Class 6 students 65 > Room 6 seating capacity 59.
